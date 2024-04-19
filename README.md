@@ -48,7 +48,3 @@ yarn electron:dev
 ## Contributing
 
 For small contributions such as bug fixes or style tweaks, please open a Pull Request.
-
-## License
-
-This project is [MIT Licensed](LICENSE).
